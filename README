@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=998
+
+there was a line break at the Toggle \ Insert \ Mode translation that was causing a startup message error. Just joined the line.
